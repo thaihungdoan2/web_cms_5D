@@ -1,0 +1,1 @@
+web: gunicorn web_5d.wsgi --log-file -
